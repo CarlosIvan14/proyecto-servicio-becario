@@ -1,0 +1,6 @@
+/* Tu archivo de estilos personalizado */
+.custom-img-height {
+    height: 700px; /* Ajusta esta altura fija según tus necesidades */
+    object-fit: cover;
+  }
+  

@@ -1,0 +1,40 @@
+/* Descripcion.css */
+#blank {
+    padding-bottom: 7%;
+}
+
+.descripcion {
+    width: 90%;
+    flex-direction: row; 
+}
+
+.foto {
+    text-align: right;
+    padding: 0%;
+}
+
+.infor {
+    text-align: left;
+    background-color: #E0E1E1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    justify-content: left;
+    margin-left: 0px;
+}
+
+#texto1 {
+    font-weight: bold;
+}
+
+#texto2 {
+    font-weight: 600;
+}
+
+#texto3 {
+    font-weight: 400;
+}
+
+#texto4 {
+    font-weight: bold;
+}

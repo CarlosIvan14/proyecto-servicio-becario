@@ -1,0 +1,58 @@
+/* Navbar.css */
+.image{
+    border-radius: 10px;
+}
+.navbar-nav {
+    width: 100%;
+    justify-content: center;
+  }
+  .navbar-brand {
+    margin-right: auto;
+    margin-left: auto;
+  }
+.boton{
+    color:white;
+    border-radius: 50px;
+    background-color: rgb(7, 7, 7);
+}
+.contenedor{
+    text-align: right;
+}
+.navbar {
+    color: white;
+    background-color: transparent; /* Fondo transparente */
+    padding: 5px 0; /* Espaciado en la parte superior e inferior */
+    position: fixed; /* Fijar la barra en la parte superior */
+    width: 100%; /* Ancho completo */
+    z-index: 1000; /* Z-index alto para estar por encima de otros elementos */
+    transition: background-color 0.3s ease; /* Transición suave del fondo */
+  }
+  .nav-link{
+    color:#ffffff !important;
+  }
+  .l{
+  color: #000000;
+  font-family: 'Fira Sans', sans-serif;
+  font-size: 30px;
+  font-weight: bold; 
+  }
+.derecha{
+  text-align: right;
+}
+.bot{
+  background-color: rgb(81, 149, 178);
+  border-radius: 80px;
+}
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  /* Navbar.css */
+/* ... Otras reglas de estilo */
+
+/* Clase para cambiar el color a blanco */
+.white-text {
+  color:#000000 !important;
+  background-color: white !important; /* Importante para que esta regla de estilo tenga prioridad */
+}
